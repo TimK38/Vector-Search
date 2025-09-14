@@ -50,6 +50,7 @@ env/
 ENV/
 env.bak/
 venv.bak/
+.conda/
 
 # Jupyter Notebook
 .ipynb_checkpoints
