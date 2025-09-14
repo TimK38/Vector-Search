@@ -115,6 +115,9 @@ logs/
 *.sqlite
 *.sqlite3
 
+# Qdrant storage
+qdrant_storage/
+
 # Compressed files
 *.zip
 *.tar.gz
