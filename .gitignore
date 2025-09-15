@@ -10,7 +10,7 @@ data/
 *.pickle
 
 # Image files
-*.jpg
+#*.jpg
 *.jpeg
 *.png
 *.gif
