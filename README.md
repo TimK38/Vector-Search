@@ -52,7 +52,7 @@
   <p><i>涵蓋各種經典動漫角色的豐富資料集</i></p>
 </div>
 
-**資料來源**：MyAnimeList 動漫資料庫  
+**資料來源**：[Anime Recommendation Database 2020 (Kaggle)](https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020)  
 **資料規模**：11,722 部動漫作品  
 **主要欄位**：
 - **MAL_ID**：唯一識別碼
