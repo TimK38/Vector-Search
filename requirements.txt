@@ -1,0 +1,22 @@
+# 核心依賴
+pandas>=1.5.0
+numpy>=1.21.0
+
+# 機器學習與向量化
+sentence-transformers>=2.2.0
+torch>=1.12.0
+
+# 向量資料庫
+qdrant-client>=1.6.0
+
+# 工具套件
+tqdm>=4.64.0
+
+# 開發工具 (可選)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# 資料處理 (可選)
+scikit-learn>=1.1.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
